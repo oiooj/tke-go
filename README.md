@@ -1,6 +1,6 @@
 # Tencent Kubernetes Engine v2 API library
 
-[![GoDoc](https://godoc.org/github.com/oiooj/tke-go/v2?status.svg)](https://godoc.org/github.com/oiooj/tke-go/v2)
+[![GoDoc](https://godoc.org/github.com/oiooj/tke-go?status.svg)](https://godoc.org/github.com/oiooj/tke-go)
 
 Detail doc: https://cloud.tencent.com/document/product/457/41100
 
