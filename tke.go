@@ -15,10 +15,10 @@ type TKE struct {
 }
 
 // New returns a new TKE service
-func New(sID, sKey string) *TKE {
+func New(secretID, secretKey string) *TKE {
 	return &TKE{
-		SecretID:  sID,
-		SecretKey: sKey,
+		SecretID:  secretID,
+		SecretKey: secretKey,
 	}
 }
 
